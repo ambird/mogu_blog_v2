@@ -10,7 +10,7 @@ PROJECT_NAME: 蘑菇博客
 
 file:
   upload:
-    path: D:/mogu_blog/data/
+    path: /Users/apple/mogu_blog/data
 
 # 邮箱验证
 moguBlog:

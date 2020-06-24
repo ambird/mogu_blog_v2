@@ -21,7 +21,7 @@ data:
 
 file:
   upload:
-    path: D:/mogu_blog/data/
+    path: /Users/apple/mogu_blog/data
 
 # 蘑菇博客登录默认密码
 DEFAULE_PWD: mogu2018
